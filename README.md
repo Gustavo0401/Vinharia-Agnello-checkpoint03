@@ -11,5 +11,7 @@ reduce para calcular o estoque total
 Resultados exibidos automaticamente no console do navegador
 
 ## Link
+https://gustavo0401.github.io/Vinharia-Agnello-checkpoint03/
 
-- Luiz Gustavo dos Santos Benedito - RM574689
+
+* Luiz Gustavo dos Santos Benedito - RM574689
